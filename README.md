@@ -23,9 +23,9 @@ For a detailed view of the project documentation, visit: [Market Research Analys
 
 ![image](https://github.com/user-attachments/assets/ca284b30-dada-4b5c-97cc-0616175a5c7e)
 
-- 40–59 years: The largest group with 664,174 individuals.
-- Over 60 years: A significant group with 558,192 individuals.
-- Under 40 years: The smallest group with 134,622 individuals.
+- **40–59 years:** The largest group with 664,174 individuals.
+- **Over 60 years:** A significant group with 558,192 individuals.
+- **Under 40 years:** The smallest group with 134,622 individuals.
 
 This indicates that the majority of the population is in the 40–59 years age range, followed by those over 60 years, while individuals under 40 years are less represented.
 
@@ -33,9 +33,9 @@ This indicates that the majority of the population is in the 40–59 years age r
 
 ![image](https://github.com/user-attachments/assets/b76342dd-ec09-4903-8bd5-2dbdd1dab974)
 
-- Middle Income: The largest group with 815,253 individuals.
-- High Income: A significant group with 524,317 individuals.
-- Low Income: The smallest group with 17,418 individuals.
+- **Middle Income:** The largest group with 815,253 individuals.
+- **High Income:** A significant group with 524,317 individuals.
+- **Low Income:** The smallest group with 17,418 individuals.
 
 This indicates that most individuals fall into the middle-income category, followed by high-income earners, while low-income individuals are least represented.
 
@@ -43,9 +43,9 @@ This indicates that most individuals fall into the middle-income category, follo
 
 ![image](https://github.com/user-attachments/assets/0316b8ed-ec8b-48ca-a936-3b7e172a4a9c)
 
-- Middle Income: The highest number of deals purchased, with 4,171 individuals.
-- Low Income: Fewer deals purchased, with 536 individuals.
-- High Income: The least number of deals purchased, with 501 individuals.
+- **Middle Income:** The highest number of deals purchased, with 4,171 individuals.
+- **Low Income:** Fewer deals purchased, with 536 individuals.
+- **High Income:** The least number of deals purchased, with 501 individuals.
 
 This suggests that individuals in the middle-income group purchase the most deals, while those in the high-income group purchase the fewest.
 
@@ -53,9 +53,9 @@ This suggests that individuals in the middle-income group purchase the most deal
 
 ![image](https://github.com/user-attachments/assets/528507ce-a128-470e-afc6-4d57c39742b7)
 
-- 40–59 years: Highest purchase recency with 59,907 entries.
-- Over 60 years: Moderate purchase recency with 39,309 entries.
-- Under 40 years: Lowest purchase recency with 10,789 entries.
+- **40–59 years:** Highest purchase recency with 59,907 entries.
+- **Over 60 years:** Moderate purchase recency with 39,309 entries.
+- **Under 40 years:** Lowest purchase recency with 10,789 entries.
 
 This indicates that individuals aged 40–59 years have the most recent purchases, followed by those over 60 years, while those under 40 years have the least recent purchases.
 
@@ -63,11 +63,11 @@ This indicates that individuals aged 40–59 years have the most recent purchase
 
 ![image](https://github.com/user-attachments/assets/4da7c05d-41c2-4e85-a05f-549866143de3)
 
-- Married individuals make the highest number of store purchases (5055) and web purchases (3532), as well as a significant number of catalog purchases (2268).
-- Together individuals follow, with 3327 store purchases, 2367 web purchases, and 1552 catalog purchases.
-- Single individuals show a notable number of store purchases (2744), web purchases (1895), and catalog purchases (1267).
-- Divorced individuals have fewer purchases across all categories, with 1350 store purchases, 1000 web purchases, and 620 catalog purchases.
-- Widow individuals have the lowest counts in all categories, with 494 store purchases, 356 web purchases, and 256 catalog purchases.
+- **Married** individuals make the highest number of store purchases (5055) and web purchases (3532), as well as a significant number of catalog purchases (2268).
+- **Together** individuals follow, with 3327 store purchases, 2367 web purchases, and 1552 catalog purchases.
+- **Single** individuals show a notable number of store purchases (2744), web purchases (1895), and catalog purchases (1267).
+- **Divorced** individuals have fewer purchases across all categories, with 1350 store purchases, 1000 web purchases, and 620 catalog purchases.
+- **Widow** individuals have the lowest counts in all categories, with 494 store purchases, 356 web purchases, and 256 catalog purchases.
 
 This indicates that married individuals are the most active across all purchase channels, while widowed individuals are the least active.
 
@@ -83,21 +83,21 @@ This suggests that complainants are less active in all purchase channels compare
 
 The analysis reveals distinct patterns in purchasing behavior across different demographics and customer characteristics.
 
-- Middle-income individuals and those aged 40–59 years exhibit the highest levels of purchasing activity and recency.
-- Married individuals are the most active across all purchasing channels, while complainants show significantly lower engagement.
+- **Middle-income** individuals and those aged **40–59 years** exhibit the **highest levels of purchasing activity and recency**.
+- **Married** individuals are the **most active** across all purchasing channels, while complainants show significantly lower engagement.
 - These trends provide valuable insights into customer behavior and highlight areas for targeted improvements.
 
 # RECOMMENDATIONS
 
-1. Target Middle-Income Group: Focus marketing efforts and promotions on the middle-income group, as they demonstrate the highest level of engagement across purchase channels.
+1. **Target Middle-Income Group:** Focus marketing efforts and promotions on the middle-income group, as they demonstrate the highest level of engagement across purchase channels.
 
-2. Enhance Engagement for Older Age Groups: Develop tailored marketing strategies to increase engagement and purchase frequency among individuals aged 60 and above.
+2. **Enhance Engagement for Older Age Groups:** Develop tailored marketing strategies to increase engagement and purchase frequency among individuals aged 60 and above.
 
-3. Leverage Married Individuals: Given their high purchase activity, consider offering exclusive deals or loyalty programs to married individuals to further boost their engagement.
+3. **Leverage Married Individuals:** Given their high purchase activity, consider offering exclusive deals or loyalty programs to married individuals to further boost their engagement.
 
-4. Address Complaints: Implement strategies to address and reduce complaints, such as improving customer service and resolving issues promptly, to enhance overall purchasing activity and customer satisfaction.
+4. **Address Complaints:** Implement strategies to address and reduce complaints, such as improving customer service and resolving issues promptly, to enhance overall purchasing activity and customer satisfaction.
 
-5. Optimize Purchase Channels: Analyze the lower engagement in catalog purchases and explore ways to make this channel more attractive or effective. Consider integrating catalog promotions with online and store-based offers to drive more comprehensive engagement.
+5. **Optimize Purchase Channels:** Analyze the lower engagement in catalog purchases and explore ways to make this channel more attractive or effective. Consider integrating catalog promotions with online and store-based offers to drive more comprehensive engagement.
 
 
 
